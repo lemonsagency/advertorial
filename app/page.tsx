@@ -22,7 +22,7 @@ export default function HairLossLandingPage() {
             Tired of Empty Promises for Hair Regrowth?
           </h2>
           <p className="text-xl text-gray-600 mb-8">
-            We understand your skepticism. Let's address your concerns head-on.
+            We understand your skepticism. Let&apos;s address your concerns head-on.
           </p>
         </section>
 
@@ -32,15 +32,15 @@ export default function HairLossLandingPage() {
             <ul className="space-y-4">
               <li className="flex items-start">
                 <XCircle className="text-red-500 mr-2 flex-shrink-0 mt-1" />
-                <span>"Hair loss treatments don't work."</span>
+                <span>&ldquo;Hair loss treatments don&apos;t work.&rdquo;</span>
               </li>
               <li className="flex items-start">
                 <XCircle className="text-red-500 mr-2 flex-shrink-0 mt-1" />
-                <span>"It's too expensive and not worth it."</span>
+                <span>&ldquo;It&apos;s too expensive and not worth it.&rdquo;</span>
               </li>
               <li className="flex items-start">
                 <XCircle className="text-red-500 mr-2 flex-shrink-0 mt-1" />
-                <span>"The side effects are worse than hair loss."</span>
+                <span>&ldquo;The side effects are worse than hair loss.&rdquo;</span>
               </li>
             </ul>
           </div>
@@ -79,7 +79,7 @@ export default function HairLossLandingPage() {
                 />
                 <div className="p-4">
                   <p className="text-gray-600">
-                    "I never thought I'd see results like this. HairRevive Pro changed my life!"
+                    &ldquo;I never thought I&apos;d see results like this. HairRevive Pro changed my life!&rdquo;
                   </p>
                   <p className="text-gray-800 font-semibold mt-2">- John D.</p>
                 </div>
@@ -91,7 +91,7 @@ export default function HairLossLandingPage() {
         <section id="contact" className="bg-blue-600 text-white rounded-lg p-8 text-center">
           <h3 className="text-3xl font-bold mb-4">Ready to Revive Your Hair?</h3>
           <p className="text-xl mb-6">
-            Don't let another day go by watching your hairline recede. Act now!
+            Don&apos;t let another day go by watching your hairline recede. Act now!
           </p>
           <Link
             href="#"
